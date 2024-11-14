@@ -24,13 +24,13 @@ Prompts and outputs documented here are shared purely with the intention that th
 
 ## Repo Layout
 
-I try to be as thorough as possible when documenting my various experiments with large language models (LLMs).
-
-For that reason, I've added, to this repo, the prompts I used to construct the synthetic personal identity of 'David Rosen'. 
-
 The main part of the repo is `demos` which is where I log some prompts and outputs to try to highlight some of the potential use-cases. 
 
 My focus is on synthesising well-written prompts (a work in progress!) and specific contextual data. I find that this formula can produce very interesting results that often far exceed, in utility, those which would be achieved without the added context.
+
+I try to be as thorough as possible when documenting my various experiments with large language models (LLMs).
+
+For that reason, I've added, to this repo, the prompts I used to construct the synthetic personal identity of 'David Rosen'. These are gathered in `development` to make them easy to distinguish from the prompts (and outputs) that demonstrate potential use-cases.
 
 ---
 
