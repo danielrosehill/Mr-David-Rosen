@@ -24,7 +24,7 @@ Prompts and outputs documented here are shared purely with the intention that th
 
 ## Index Of Demos
 
-- [Link](https://github.com/danielrosehill/Mr-David-Rosen/blob/main/demos/index)
+- [Link](https://github.com/danielrosehill/Mr-David-Rosen/blob/main/demos/index.md)
 
 ## Repo Layout
 
