@@ -1,16 +1,20 @@
-# Details
+# Use-Case: Career Planning, "Next Steps" Identification
+
+The purpose of this demo is to show how LLMs can be used to mine resume data in order to help individuals ideate their next professional "steps". 
+
+I love using this type of prompting to leverage LLMs to think beyond the narrow confines of my own thought processes and to think how my career could evolve or go in new directions. 
+
+---
 
 ## LLM
 
 GPT 4o-omni via Perplexity AI
 
+## Platform
+
 ## Date
 
 14-Nov-2024
-
-## Notes
-
-
 
 ---
 

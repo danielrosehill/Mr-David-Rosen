@@ -1,0 +1,52 @@
+{
+	"Notes headers": {
+		"prefix": "Notes headers",
+		"description": "Notes headers",
+		"scope": "markdown",
+		"body": [
+			"# Use-Case:  ",
+			"",
+			" ",
+			"",
+			"---",
+			"",
+			"## LLM",
+			"",
+			"## Platform",
+			"",
+			"## Date",
+			"",
+			" ---",
+			"",
+			" ## Prompt",
+			"",
+			" ---",
+			"",
+			" ## Contextual Data",
+			"",
+			" ---",
+			"",
+			" ## Output"
+		]
+	},
+	"LLM Notes": {
+		"prefix": "LLM Notes",
+		"description": "LLM Notes",
+		"scope": "markdown",
+		"body": [
+			"# Use-Case:  ",
+			"",
+			" ",
+			"",
+			"---",
+			"",
+			"## LLM",
+			"",
+			"## Platform",
+			"",
+			"## Date",
+			"",
+			" ---"
+		]
+	}
+}

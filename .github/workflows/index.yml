@@ -1,0 +1,20 @@
+name: Create markdown indexes
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Markdown Index
+        uses: DaanV2/Markdown-Action-Create-Indexes@v2.0.0
+        with:
+          folder: demos
+          filename: index.md
