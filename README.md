@@ -22,6 +22,10 @@ Prompts and outputs documented here are shared purely with the intention that th
 
 ---
 
+## Index Of Demos
+
+- [Link](https://github.com/danielrosehill/Mr-David-Rosen/blob/main/demos/index)
+
 ## Repo Layout
 
 The main part of the repo is `demos` which is where I log some prompts and outputs to try to highlight some of the potential use-cases. 
