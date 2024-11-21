@@ -1,20 +1,13 @@
-name: Create markdown indexes
+name: Trigger Netlify Build
 
 on:
   push:
     branches:
-      - master
-  pull_request:
-    branches:
-      - master
+      - main
 
 jobs:
-  build:
+  notify-netlify:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Generate Markdown Index
-        uses: DaanV2/Markdown-Action-Create-Indexes@v2.0.0
-        with:
-          folder: demos
-          filename: index.md
+      - name: Trigger Netlify Build Hook
+        run: curl -X POST -d '{}' ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
